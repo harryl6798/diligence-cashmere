@@ -1,7 +1,11 @@
 # Investment Memorandum: Cashmere.io (Project Vandal)
+![Cashmere Logo](https://cashmere.io/logo.png)
+
 **Date**: March 15, 2026
 **Stage**: Seed (High Growth)
 **Recommendation**: **OVERWEIGHT / HIGH CONVICTION**
+
+**External Profiles**: [Crunchbase](https://www.crunchbase.com/organization/cashmere-io) | [Reach Capital Portfolio](https://reachcapital.com/portfolio/cashmere/) | [Cashmere.io](https://cashmere.io/)
 
 ---
 
@@ -34,8 +38,12 @@ Cashmere’s growth is driven by a powerful network effect. As more premium publ
 ---
 
 ## 5. Critical Risk Assessment
-- **🔴 Aggregator Disintermediation**: Risk that OpenAI or Google builds direct licensing rails, bypassing middleware. *Mitigation*: Cashmere’s "BYOL" (Bring Your Own License) model creates a direct link between publishers and their existing institutional subscribers.
-- **🟠 Adoption Velocity**: Publishers may move too slowly to capture the inference market. *Mitigation*: The Perplexity partnership provides immediate, high-volume proof of concept.
+
+| Risk Factor | Severity | Mitigation Strategy |
+| :--- | :--- | :--- |
+| **Aggregator Disintermediation** | 🔴 CRITICAL | Cashmere’s "BYOL" model creates a direct link between publishers and institutional subscribers, making it harder for OpenAI/Google to bypass. |
+| **Adoption Velocity** | 🟠 MATERIAL | The Perplexity partnership provides immediate, high-volume proof of concept, incentivizing other publishers to join the network. |
+| **Model Decoupling** | 🟡 MONITOR | Omnipub is model-agnostic, allowing publishers to switch between LLM providers (Anthropic, Meta, etc.) without re-ingesting content. |
 
 ---
 

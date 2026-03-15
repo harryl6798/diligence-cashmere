@@ -17,11 +17,15 @@
 ## 1. Founding Team: The Bridge Talent Moat
 
 ### Jonathan Munk (CEO & Co-founder)
+![Jonathan Munk](https://cashmere.io/team/munk.png)
+**Profiles**: [LinkedIn](https://www.linkedin.com/in/jonathanmunk) | [Degreed Bio](https://degreed.com/)
+
 Jonathan Munk is a "category-of-one" founder in the intersection of EdTech and AI infrastructure. His career is defined by a deep understanding of how knowledge is acquired, signaled, and monetized within enterprise environments. At **Degreed**, Munk spent six years as a key executive, helping to pioneer the "skills-based" learning market. This experience is critical because Cashmere.io is essentially the infrastructure for **AI-native skills and knowledge**. Munk’s ability to communicate the value of "inference-based" data to legacy publishing giants is an alpha signal that few pure AI researchers possess.
 
-Furthermore, Munk's recent tenure as CEO of **BookClub** (2022-2024) provided him with direct exposure to the challenges of digitizing and scaling book-based learning. He has witnessed firsthand the friction of licensing long-form content and the limitations of traditional distribution models. This operational background allows him to position Cashmere not just as a technical tool, but as a strategic solution to the "existential threat" AI poses to the publishing industry's core business model.
-
 ### Jonathan Woahn (Co-founder)
+![Jonathan Woahn](https://github.com/jonathanwoahn.png)
+**Profiles**: [LinkedIn](https://www.linkedin.com/in/jonathanwoahn) | [Scholarly Kitchen Bio](https://scholarlykitchen.sspnet.org/author/jwoahn/)
+
 Jonathan Woahn serves as the philosophical and strategic architect of the Cashmere ecosystem. For over five years, Woahn has been a leading voice in the Society for Scholarly Publishing (SSP), advocating for a sustainable future for content creators in the age of AI. His **"3C's Framework"** (Consent, Credit, and Compensation) has become the industry benchmark for responsible AI integration. This "Social Capital" is the most significant defensive moat for Cashmere; publishers like **John Wiley & Sons** and **Harvard Business Publishing** are not just customers, but strategic partners who trust Woahn’s vision of a "pro-creator" AI future.
 
 Woahn’s work on the "Scholarly Kitchen" blog further solidifies his position as a thought leader who can influence the "Big Five" academic publishers. His argument that the "Inference market" is 100x larger than the "Training market" has redefined the commercial strategy for these publishers, moving them away from one-time "bulk data" deals toward the recurring, high-margin revenue model that Cashmere enables.
@@ -62,11 +66,14 @@ The AI licensing market is rapidly bifurcating into three distinct segments: the
 
 ![Market Positioning Matrix](../diagrams/market.png)
 
-### 4.1 Cashmere vs. TollBit
-**TollBit** is the primary competitor in the "Agentic Web" space, but its focus is significantly different. TollBit acts as a "toll booth" for web scrapers, helping digital media companies (news sites, blogs) monetize their real-time traffic. While TollBit is excellent for "monetizing the scrape," it lacks the deep knowledge graph infrastructure needed for complex book or academic content. Cashmere is a "knowledge platform," while TollBit is a "traffic platform." We believe there is room for both, but Cashmere’s focus on **archives** provides a more stable, long-term moat.
+### 4.1 Competitive Comparison Table
 
-### 4.2 Cashmere vs. CCC (Copyright Clearance Center)
-**CCC** is the "Old Guard" incumbent in collective licensing. CCC is excellent at managing administrative rights for human use (e.g., photocopies or internal company chat), but it is a manual, non-technical solution. Cashmere is an **API-first, automated** system designed for machine-use (AI agents). While CCC is attempting to move into the AI space with its "ACL for Business" product, it remains fundamentally an administrative clearinghouse rather than a technical infrastructure provider.
+| Feature | **Cashmere.io** | **TollBit** | **CCC (Copyright Clearance)** |
+| :--- | :--- | :--- | :--- |
+| **Primary Content** | High-Value Archives (Books/Journals) | Real-time Web (News/Blogs) | Enterprise Rights (Human Use) |
+| **Technical Moat** | Omnipub Knowledge Graph | Marketplace Bot Paywall | Administrative Database |
+| **Model Integration** | Deep Inference (Metered API) | Simple Retrieval (Toll booth) | Manual / Bulk Licensing |
+| **Key Partners** | Perplexity, Wiley, Harvard | 6,000+ Digital Publishers | Fortune 500 incumbents |
 
 ---
 

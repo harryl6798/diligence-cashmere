@@ -19,7 +19,7 @@
     <script src="https://booktalk-static.nyc3.cdn.digitaloceanspaces.com/bootstrap/bootstrap.bundle.min.90c4b26d3df2.js"></script>
     
   </head>
-  <body hx-headers='{"X-CSRFToken": "T3XguXeAgYyIKImQSOw5qEjsx0AxeXNrRcQQFPugqSyY1yKAWbnoOvAPGpPqYxsn"}'>
+  <body hx-headers='{"X-CSRFToken": "O6qR0C1fS7mfjjSbdfS2mwQgxcL0SdeZ4Ehi2DbHlBX2v5fsRfSSBtN1JhLAOvQC"}'>
     <div class="d-flex flex-md-row flex-column min-vh-100">
       <nav class="navbar navbar-expand-md d-md-none w-100 border-bottom">
   <div class="container-fluid">
@@ -136,7 +136,7 @@
           method: 'POST',
           headers: {
             'Content-Type': 'application/x-www-form-urlencoded',
-            'X-CSRFToken': 'T3XguXeAgYyIKImQSOw5qEjsx0AxeXNrRcQQFPugqSyY1yKAWbnoOvAPGpPqYxsn'
+            'X-CSRFToken': 'O6qR0C1fS7mfjjSbdfS2mwQgxcL0SdeZ4Ehi2DbHlBX2v5fsRfSSBtN1JhLAOvQC'
           },
           body: `theme=${nextTheme}`
         }).then(() => window.location.reload());
@@ -276,7 +276,7 @@
           method: 'POST',
           headers: {
             'Content-Type': 'application/x-www-form-urlencoded',
-            'X-CSRFToken': 'T3XguXeAgYyIKImQSOw5qEjsx0AxeXNrRcQQFPugqSyY1yKAWbnoOvAPGpPqYxsn'
+            'X-CSRFToken': 'O6qR0C1fS7mfjjSbdfS2mwQgxcL0SdeZ4Ehi2DbHlBX2v5fsRfSSBtN1JhLAOvQC'
           },
           body: `theme=${nextTheme}`
         }).then(() => window.location.reload());

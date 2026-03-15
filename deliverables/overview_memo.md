@@ -1,5 +1,5 @@
 # Investment Memorandum: Cashmere.io (Project Vandal)
-![Cashmere Logo](https://cashmere.io/logo.png)
+![Cashmere Logo](../assets/logo.png)
 
 **Date**: March 15, 2026
 **Stage**: Seed (High Growth)

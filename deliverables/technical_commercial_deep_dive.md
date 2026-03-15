@@ -17,13 +17,13 @@
 ## 1. Founding Team: The Bridge Talent Moat
 
 ### Jonathan Munk (CEO & Co-founder)
-![Jonathan Munk](https://cashmere.io/team/munk.png)
+![Jonathan Munk](../assets/munk_headshot.png)
 **Profiles**: [LinkedIn](https://www.linkedin.com/in/jonathanmunk) | [Degreed Bio](https://degreed.com/)
 
 Jonathan Munk is a "category-of-one" founder in the intersection of EdTech and AI infrastructure. His career is defined by a deep understanding of how knowledge is acquired, signaled, and monetized within enterprise environments. At **Degreed**, Munk spent six years as a key executive, helping to pioneer the "skills-based" learning market. This experience is critical because Cashmere.io is essentially the infrastructure for **AI-native skills and knowledge**. Munk’s ability to communicate the value of "inference-based" data to legacy publishing giants is an alpha signal that few pure AI researchers possess.
 
 ### Jonathan Woahn (Co-founder)
-![Jonathan Woahn](https://github.com/jonathanwoahn.png)
+![Jonathan Woahn](../assets/woahn_headshot.png)
 **Profiles**: [LinkedIn](https://www.linkedin.com/in/jonathanwoahn) | [Scholarly Kitchen Bio](https://scholarlykitchen.sspnet.org/author/jwoahn/)
 
 Jonathan Woahn serves as the philosophical and strategic architect of the Cashmere ecosystem. For over five years, Woahn has been a leading voice in the Society for Scholarly Publishing (SSP), advocating for a sustainable future for content creators in the age of AI. His **"3C's Framework"** (Consent, Credit, and Compensation) has become the industry benchmark for responsible AI integration. This "Social Capital" is the most significant defensive moat for Cashmere; publishers like **John Wiley & Sons** and **Harvard Business Publishing** are not just customers, but strategic partners who trust Woahn’s vision of a "pro-creator" AI future.
